@@ -3,6 +3,10 @@
 <a href="#"><img src="https://c.tenor.com/5fXOP8eurtkAAAAC/mr-robot.gif)" height="65%" width="65%" /></a>
 </p>
 
+### A little about me
+
+Hello friend, I’m Darlez.Sec, also known as “samsepi0l” I’m a CTF player and a lover of hacker culture, I’m a student of quantum physics and astronomy, I have a community on Cybersecurity on the Telegram platform where they talk about Pentesting topics , Programming, Computer Forensics, Cryptography among other things… if you like to join you will find the link below in the section of my social networks.
+
 ### My Social Networks
 
 [![Telegram](https://img.shields.io/static/v1?label=&message=+Telegram&color=101010&style=for-the-badge&logo=Telegram&logoColor=101010)](htpps://t.me/Un0zandC3r0z)
