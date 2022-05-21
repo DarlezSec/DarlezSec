@@ -1,7 +1,7 @@
 
 <h3 align="center">Hey there, I'm Darlez.Sec</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://seriesonday.com/wp-content/uploads/2019/12/mr-robot-4x10-410-gone-seriesonday-2.jpg)" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.gifer.com/DirG.gif)" height="100%" width="100%" /></a>
 </p>
 
 Hello, My name is Zatiel, 29 years with 5 years of experience.
