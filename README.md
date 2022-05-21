@@ -3,3 +3,5 @@
 <p align="center">
 <a href="#"><img src="https://c.tenor.com/5fXOP8eurtkAAAAC/mr-robot.gif)" height="80%" width="80%" /></a>
 </p>
+
+Hello Friend, I'm Darlez.Sec, Interested in quantum physics and Computer Science, Prenetation Tester.. Official Creator of https://t.me/Un0zandC3r0z
