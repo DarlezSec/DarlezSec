@@ -3,8 +3,14 @@
 <a href="#"><img src="https://c.tenor.com/5fXOP8eurtkAAAAC/mr-robot.gif)" height="65%" width="65%" /></a>
 </p>
 
-My Social Networks
+### My Social Networks
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCsUZ7PYtQS58HEaRfIVQamw)
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/DarlezSec)
-https://img.shields.io/static/v1?label=&message=+HackTheB0x&color=263238&style=for-the-badge&logo=hackthebox&logoColor=%23aaaaaaaa
+[![Telegram](https://img.shields.io/static/v1?label=&message=+Telegram&color=101010&style=for-the-badge&logo=Telegram&logoColor=101010)](htpps://t.me/Un0zandC3r0z)
+[![Github](https://img.shields.io/static/v1?label=&message=+Github&color=101010&style=for-the-badge&logo=github&logoColor=%white)](https://github.com/DarlezSec)
+[![YouTube](https://img.shields.io/badge/youtube-101010?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=101010)](https://www.youtube.com/channel/UCsUZ7PYtQS58HEaRfIVQamw)
+[![Twitter](https://img.shields.io/badge/twitter-101010?style=for-the-badge&logo=twitter&logoColor=101010e&labelColor=101010)](https://twitter.com/darlezsec)
+[![Discord](https://img.shields.io/badge/discord-101010?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![TryHackMe](https://img.shields.io/static/v1?label=&message=+TryHackMe&color=101010&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme/p/darlez.sec)
+[![Web](https://img.shields.io/badge/WEBSITE-101010?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://darlezsec.vercel.app)
+[![Instagram](https://img.shields.io/badge/instagram-101010?style=for-the-badge&logo=instagram&logoColor=d7075f&labelColor=101010)](https://instagram.com/Darlez.Sec)
+[![TikTok](https://img.shields.io/badge/TIKT0K-101010?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@.samsepi0l)
