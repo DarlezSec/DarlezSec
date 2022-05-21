@@ -6,7 +6,7 @@
 ### A little about me
 
 Hello friend, I’m Darlez.Sec, also known as “samsepi0l” I’m a CTF player and a lover of hacker culture, I’m a student of quantum physics and astronomy, I have a community on Cybersecurity on the Telegram platform where they talk about Pentesting topics , Programming, Computer Forensics, Cryptography among other things… if you like to join you will find the link below in the section of my social networks. 
-Link My Community: [![YouTube](https://img.shields.io/badge/Comunnity-101010?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=101010)](https://t.me/Un0zandC3r0z)
+Link My Community: [![Community](https://img.shields.io/badge/Comunnity-101010?style=for-the-badge&logo=hackaday&logoColor=ff0000&labelColor=101010)](https://t.me/Un0zandC3r0z)
 
 
 ### My Social Networks
