@@ -1,6 +1,6 @@
 <h3 align="center">Hello friend👋, I'm Dalez.Sec</a></h3>
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/rEi16j0v9JNuM/giphy.gif)" height="65%" width="65%" /></a>
+<a href="#"><img src="https://github.com/DarlezSec/DarlezSec/blob/main/giphy.gif)" height="65%" width="65%" /></a>
 </p>
 
 ### A little about me
