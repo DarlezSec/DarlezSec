@@ -1,6 +1,6 @@
 <h3 align="center">Hello friend👋, I'm Dalez.Sec</a></h3>
 <p align="center">
-<a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FW7Gx&psig=AOvVaw2C6qTjaJUHe-FuxVNbPjML&ust=1653317579115000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj2j5Ku8_cCFQAAAAAdAAAAABAD)" height="65%" width="65%" /></a>
+<a href="#"><img src="https://i.gifer.com/SOIr.gif)" height="65%" width="65%" /></a>
 </p>
 
 ### A little about me
