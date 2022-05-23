@@ -19,3 +19,10 @@ Link My Community: [![Community](https://img.shields.io/badge/Comunnity-101010?s
 [![Web](https://img.shields.io/badge/WEBSITE-101010?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://darlezsec.vercel.app)
 [![Instagram](https://img.shields.io/badge/instagram-101010?style=for-the-badge&logo=instagram&logoColor=d7075f&labelColor=101010)](https://instagram.com/Darlez.Sec)
 [![TikTok](https://img.shields.io/badge/TIKT0K-101010?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@.samsepi0l)
+
+
+### 📈 My Stats 
+
+![THM-Badge](https://tryhackme-badges.s3.amazonaws.com/darlez.sec.png)     
+
+![HTB-Badge](http://www.hackthebox.eu/badge/image/809288)
