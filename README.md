@@ -11,6 +11,8 @@
 
 - Telegram: ![@samsepiol](https://t.me/samsepiol)
 - Instagram: ![@Darlez.Sec](https://instagram.com/Darlez.Sec)
+- Twitter: ![@DarlezSec](https://twitter.com/DarlezSec)
+- Reddit: ![@Darlez.Sec](https://www.reddit.com/u/Individual_Fix_2999?utm_medium=android_app&utm_source=share)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eeeeee&vCenter=true&width=200&height=37&lines=%F0%9F%93%88%20My%20Stats%20%0A)
 
