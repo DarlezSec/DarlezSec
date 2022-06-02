@@ -3,7 +3,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eeeeee&vCenter=true&width=200&height=37&lines=About%20Me:)
 
-Hi friend, I'm Darle.Sec, a lover of Geek and Hacker culture, also passionate about quantum physics, I like GNU/Linux systems, addicted to playing CTF.
+* Addicted to playing CTF.
+* Quantum physics student
+* I like GNU/Linux systems, My favourites? Debian and FBSD
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eeeeee&vCenter=true&width=200&height=37&lines=Contact%20Me:)
 
