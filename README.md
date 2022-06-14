@@ -23,6 +23,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eeeeee&vCenter=true&width=200&height=37&lines=%F0%9F%93%88%20My%20Stats%20%0A)
 
-![THM-Badge](https://tryhackme-badges.s3.amazonaws.com/darlez.sec.png)     
+![THM-Badge]("https://tryhackme-badges.s3.amazonaws.com/darlez.sec.png" alt="TryHackMe")     
 
 ![HTB-Badge](http://www.hackthebox.eu/badge/image/809288)
