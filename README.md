@@ -5,7 +5,8 @@
 
 * Addicted to playing CTF.
 * Quantum physics student
-* I like GNU/Linux systems, My favourites? Debian and FBSD
+* I like Unix-Like Systems
+* I Use Endeavour Btw
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=eeeeee&vCenter=true&width=200&height=37&lines=Contact%20Me:)
 
